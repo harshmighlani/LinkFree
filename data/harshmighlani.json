@@ -1,0 +1,12 @@
+{
+  "name": "Harsh Mighlani",
+  "type": "personal",
+  "bio": "Java developer and Cloud evangalist",
+  "links": [
+    {
+      "name": "Linkedin Profile",
+      "url": "https://www.linkedin.com/in/harsh-mighlani/",
+      "icon": "FaLinkedin"
+    }
+  ]
+}
